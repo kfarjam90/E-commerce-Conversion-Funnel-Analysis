@@ -1,4 +1,4 @@
-# Funnel Performance Report – September 2026
+# Funnel Performance Report
 
 **Scope:** 900 sessions with a product view (2,161 event rows), 1–30 Sep 2026. All figures use distinct sessions.
 **Overall purchase conversion: 27.8%** (250 purchase sessions / 900 product-view sessions). Revenue EUR 11,097, average order value EUR 44.39.
