@@ -10,6 +10,11 @@
 | Payment selected | 425 | 72.5% | 161 |
 | Purchase | 250 | 58.8% | 175 |
 
+![](1_funnel.png)
+![](2_segment_comparison.png)
+![](3_biggest_dropoff.png)
+![](4_payment_method.png)
+
 ## Three most important findings
 
 1. **The two biggest leaks are the first and the last step.** The largest absolute loss is view → cart (314 sessions, 34.9%). The highest loss *rate* is payment → purchase: 41.2% of sessions that picked a payment method never complete the order (175 sessions). These are people who already intended to buy, so this is the most expensive loss.
